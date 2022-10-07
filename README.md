@@ -1,5 +1,5 @@
 
-<h1 align="center">:file_cabinet: Projeto-3: Segmentação de clientes no ecommerce</h1>
+<h1 align="center">:file_cabinet: Projeto-3: Segmentação de clientes no Ecommerce</h1>
  :handshake: Colaboradores
 </b>  Ludmilla Oliveira | Analista de Dados Jr.
 
